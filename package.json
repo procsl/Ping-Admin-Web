@@ -13,12 +13,10 @@
     "@types/react-dom": "^16.9.8",
     "antd": "^4.3.5",
     "craco-less": "^1.17.0",
-    "dayjs": "^1.8.28",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "typescript": "^3.9.5",
-    "websocket-extensions": "0.1.4"
+    "typescript": "^3.9.5"
   },
   "scripts": {
     "start": "craco start",
@@ -42,6 +40,5 @@
     ]
   },
   "devDependencies": {
-    "webpack": "^4.43.0"
   }
 }
